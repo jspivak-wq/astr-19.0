@@ -1,0 +1,7 @@
+def f(x):
+	f = x**3
+	return f + 8
+x=9
+print(f(x))
+if f(x)>27:
+	print("yay")
